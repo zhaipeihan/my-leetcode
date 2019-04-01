@@ -4,8 +4,8 @@ leetcode: https://leetcode.com/problemset/all/
 
 ### 2019-04-01
 * T9
-
-
+* T100
+* T104
 
 ### 2019-04-02
 
