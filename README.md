@@ -8,5 +8,6 @@ leetcode: https://leetcode.com/problemset/all/
 * T104
 
 ### 2019-07-19
-* T13
+* T13 (算法逻辑)
+* T121 （算法逻辑）
 
