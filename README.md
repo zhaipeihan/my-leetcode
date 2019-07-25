@@ -11,3 +11,7 @@ leetcode: https://leetcode.com/problemset/all/
 * T13 (算法逻辑)
 * T121 （算法逻辑）
 
+
+### 2019-07-25
+* T2 (链表)
+
