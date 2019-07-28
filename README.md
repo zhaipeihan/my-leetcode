@@ -18,3 +18,8 @@ leetcode: https://leetcode.com/problemset/all/
 ### 2019-07-26
 * T3 (最长不重复子串)
 
+
+### 2019-07-28
+* T12
+
+
