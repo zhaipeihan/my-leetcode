@@ -21,5 +21,7 @@ leetcode: https://leetcode.com/problemset/all/
 
 ### 2019-07-28
 * T12
+* T4
+* T912 (QuickSort)
 
 
